@@ -23,7 +23,7 @@
 hs_err_pid*
 
 # Eclipse file
-/build/
+build/
 .project
 .setting
 .classpath
