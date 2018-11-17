@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-/build/
-=======
 # Compiled class file
 *.class
 
@@ -26,7 +23,7 @@
 hs_err_pid*
 
 # Eclipse file
+/build/
 .project
 .setting
 .classpath
->>>>>>> branch 'master' of https://github.com/youngEmployeeProject/researchZenHubProject.git
