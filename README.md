@@ -6,11 +6,10 @@ SSH通信では署名はつかず、とはいえsettingでGPGを登録してお�
 
 コミット1
 コミット2
-<<<<<<< HEAD
 コミット3
 コミット4
-=======
->>>>>>> parent of debf97d... Update README.md
+コミット5
+
 
 
 
